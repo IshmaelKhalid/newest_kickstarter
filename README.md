@@ -1,5 +1,7 @@
 # NewestKickstarter
 
+https://rubygems.org/gems/newest_kickstarter
+
 This ruby gem is a simple command line interface (CLI) to access the top 20 newest projects on Kickstarter.com.This gem also allows you to recieve basic information about those projects and a link to their project page.
 
 ## Installation
