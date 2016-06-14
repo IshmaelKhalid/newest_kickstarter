@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Scrapes top 20 new projects from kickstarter.com, an gives more info on each.}
   spec.description   = %q{This ruby gem is a simple command line interface (CLI) to access the top 20 newest projects on Kickstarter.com.This gem also allows you to recieve basic information about those projects and a link to their project page.}
-  spec.homepage      = "http://IshmaelKhalid.com"
+  spec.homepage      = "https://github.com/IshmaelKhalid/newest_kickstarter"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
