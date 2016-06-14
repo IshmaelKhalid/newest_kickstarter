@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+# link to files that include NewestKickstarter::CLI.new.start method
+require_relative '../lib/newest_kickstarter'
+
+# Put here to avoid logic in bin folder
+NewestKickstarter::CLI.new.start
