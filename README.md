@@ -1,3 +1,7 @@
+#This repo has been superceded by the NewKS repo
+ NewKS: https://github.com/IshmaelKhalid/NewKS
+ 
+
 # NewestKickstarter
 
 https://rubygems.org/gems/newest_kickstarter
